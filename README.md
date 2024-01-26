@@ -1,0 +1,2 @@
+# uma_instagram
+ウマ娘産駒botのinstagram投稿用リポジトリ
